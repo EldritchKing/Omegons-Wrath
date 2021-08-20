@@ -7,6 +7,10 @@ Omegon's Wrath Fan Codex Homebrew Catalogue for the Warhammer 40,000 data sets.
 [![GitHub contributors](https://img.shields.io/github/contributors/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/Mad-Spy/40kHomebrew/graphs/contributors)
 [![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/TemplateDataRepo.svg?style=flat-square)](https://github.com/Mad-Spy/40kHomebrew/pulse/monthly)
 
+These files are based on @Cerxis's Fan codex below:
+
+[Codex - Adeptus Arbites](https://www.cerxis.de/omegonswrath/index.php/supplement/)
+
 ---------------------
 To use these files, first download the relevant 40k data set within Battlescribe.
 
