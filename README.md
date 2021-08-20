@@ -14,6 +14,4 @@ You then need to manually copy the file into your Battlescribe data directory.
 
 On Windows, that is "%userprofile%\Battlescribe\data\Warhammer 40,000 9th Edition" by default.
 
-On Android, it is "\Android\data\net.battlescribe.mobile.rostereditor\files\data\Warhammer 40,000 9th Edition"
-
 Once the file is in that directory, you should see the new catalogue as a choice when you go to create a new Roster.
