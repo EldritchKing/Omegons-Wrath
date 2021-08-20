@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Adeptus Astartes - Omegon&apos;s Wrath" indexUrl="https://github.com/EldritchKing/Omegons-Wrath.git" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer 40,000.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="Warhammer 40,000 9th Edition" dataBattleScribeVersion="2.03" dataRevision="192"/>
+  </dataIndexEntries>
+</dataIndex>
